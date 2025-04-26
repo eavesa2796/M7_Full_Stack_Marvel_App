@@ -7,7 +7,7 @@ Users can **view**, **add**, **edit**, and **delete** characters, with image upl
 
 ## 📸 Preview
 
-![Marvel Character Manager Screenshot](public/screenshot.png)
+![Marvel Character Manager Screenshot](../frontend/marvel-project/public/screenshot.png)
 
 
 ---
